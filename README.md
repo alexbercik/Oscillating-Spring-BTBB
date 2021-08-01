@@ -1,5 +1,5 @@
 # Oscillating-Spring-BTBB
-The code used in in the following Youtube video: TBD
+The code used in in the following Youtube video: https://youtu.be/mQqMUZqpkZw
 
 This uses two simple methods to solve the follwoing ODE: dy^2/dt^2= -(k/m)*y -g 
 
